@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=skyblue&height=12px&section=header" />
+### Welcome, seoulmomo-github 👋
 
 <!--
 **seoulmomo/seoulmomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
