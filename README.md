@@ -21,6 +21,7 @@
 
 ---
 ## 진행했던 프로젝트
+KH 정보교육원 파이널 프로젝트 : [피에스타](https://github.com/TeamFiestar/Fiestar)
 제로베이스 프론트엔드 스쿨 협업 프로젝트 : [여행족](https://github.com/Travel-Tribe/Travel-Tribe-frontend)
 
 <!--
