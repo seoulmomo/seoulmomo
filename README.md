@@ -23,7 +23,8 @@
 ## 진행했던 프로젝트
 - KH 정보교육원 파이널 프로젝트 : [피에스타](https://github.com/TeamFiestar/Fiestar)
 - 제로베이스 프론트엔드 스쿨 협업 프로젝트 : [여행족](https://github.com/Travel-Tribe/Travel-Tribe-frontend)
-
+- 라이엇API를 활용한 롤 전적 검색 사이트(개인 프로젝트) : [MY LOL](https://github.com/seoulmomo/riot-project)
+- OPENAI API를 활용한 멀티모달(개인 프로젝트) : (진행중)
 
 
 <!--
