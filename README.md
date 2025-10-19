@@ -38,7 +38,7 @@
 ## 진행했던 프로젝트
 - KH 정보교육원 파이널 프로젝트 : [피에스타](https://github.com/TeamFiestar/Fiestar)
 - 제로베이스 프론트엔드 스쿨 협업 프로젝트 : [여행족](https://github.com/Travel-Tribe/Travel-Tribe-frontend)
-- 🚧 보고서를 AI로 쉽고 빠르게 제작할 수 있는 플랫폼 (진행중) : [전과외](https://github.com/ReportAI-project/ReportAI-frontend)
+- 보고서를 AI로 쉽고 빠르게 제작할 수 있는 플랫폼 : [전과외](https://github.com/ReportAI-project/ReportAI-frontend)
 
 
 
