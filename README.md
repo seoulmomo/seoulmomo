@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 
 # Welcome seoulmomo's github!! 👋
 안녕하세요! 저는 새로운 것을 도전하는 데에 두려워하지 않고 적극적으로 나서는 신입 개발자 seoulmomo 입니다!
